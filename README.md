@@ -1,1 +1,1 @@
-this is my website do with the help of github pages and jekly
+This is my website done with the help of github pages and jekyll
